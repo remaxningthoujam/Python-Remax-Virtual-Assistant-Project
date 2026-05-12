@@ -49,5 +49,10 @@ python remaxVA.py
 ## 🧑‍💻 Author
 ### Remax Ningthoujam Meetei
 ### BCA Student Python Learner & Future Software Engineer 🚀
+## ⭐ Support
+If you like this project:
+- Star the repository ⭐
+- Fork the project
+- Share with
 
 
