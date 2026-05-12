@@ -1,0 +1,14 @@
+You: hello
+Bot: Hello!
+You: how are you
+Bot: I'm doing great
+You: what is your name
+Bot: Just a simple bot 
+You: motivate me
+Bot: Small progress is still progress
+You: today date
+Bot: Today's date is 05-12-2026
+You: hello
+Bot: Hello!
+You: how are you
+Bot: All Good! What about you?
